@@ -2,3 +2,5 @@ git lfs track "*.exe"
 git add "MyBigPictureInstaller.exe"
 git commit -m "add MyBigPictureInstaller.exe"
 git push
+
+creo que este me funciono mejor
