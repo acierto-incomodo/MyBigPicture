@@ -1,0 +1,5 @@
+git lfs track "*.exe"
+git add .gitattributes
+git add "MyBigPictureInstaller.exe"
+git commit -m "Agregando archivo .exe con Git LFS"
+git push origin main
