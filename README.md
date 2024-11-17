@@ -4,19 +4,17 @@ MyBigPicture es un proyecto inspirado en la interfaz de Steam Big Picture, dise�
 
 ## Características
 
-- Interfaz optimizada para mandos (PS4, Xbox, etc.).
+- Interfaz diseñada para mandos (PS4, Xbox, etc.).
 - Sistema de navegación fluido y atractivo.
-- Acceso a las aplicaciones y juegos directamente desde la interfaz.
+- Acceso a los programas directamente desde la interfaz.
 - Instalador configurable con soporte multi-idioma (Inglés y Español).
 - Registro de protocolo y soporte de desinstalación.
+- Abrir el programa mediante mybigpicture://
 
 ## Requisitos
 
 - **Sistema operativo**: Windows 7 o superior.
-- **Lenguaje de programación**: C# y tecnologías asociadas.
-- **Requisitos adicionales**: 
-  - Microsoft .NET Framework 4.7.2 o superior.
-  - Certificado de firma de código (si deseas firmar el instalador).
+- **Lenguaje de programación**: C#, NodeJS y tecnologías asociadas.
 
 ## Instalación
 
@@ -28,10 +26,7 @@ MyBigPicture es un proyecto inspirado en la interfaz de Steam Big Picture, dise�
 
 ### Manualmente
 
-1. Descarga el código fuente.
-2. Compílalo utilizando Visual Studio con .NET Framework 4.7.2 o superior.
-3. Crea un archivo `setup.exe` utilizando Inno Setup.
-4. Ejecuta el archivo resultante para instalar la aplicación.
+1. Actualmente no disponible
 
 ## Idiomas
 
@@ -45,16 +40,6 @@ El archivo de licencia se adapta al idioma seleccionado durante la instalación.
 
 Una vez instalado, MyBigPicture se lanzará automáticamente y podrás navegar por la interfaz utilizando un mando. Accede a tus aplicaciones y juegos con una experiencia adaptada para mandos.
 
-## Contribuciones
-
-Si deseas contribuir al proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama para tu nueva funcionalidad (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit de ellos (`git commit -am 'Añadir nueva funcionalidad'`).
-4. Sube tus cambios a tu fork (`git push origin feature/nueva-funcionalidad`).
-5. Abre un pull request para que tus cambios sean revisados.
-
 ## Licencia
 
 Este proyecto está bajo la licencia [MIT License](LICENSE).
@@ -62,3 +47,4 @@ Este proyecto está bajo la licencia [MIT License](LICENSE).
 ## Contacto
 
 Si tienes preguntas o sugerencias, no dudes en contactar a [GitHub](https://github.com/acierto-incomodo).
+
